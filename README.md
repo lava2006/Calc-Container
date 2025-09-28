@@ -28,6 +28,3 @@ This is my first containerization project, through which I have strengthened my 
 ***
 
 Replace <image_name>, <container_name>, <volume_name>, /host/path, and /container/path with your specific names and paths. This covers the essential Docker commands for containerized calculator project.
-
-Citations:
-[1] selected_image_1719134950831596191.jpg https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/96106974/8c721f2a-c9bd-4ed2-8ea4-79ee0ae44ad8/selected_image_1719134950831596191.jpg
